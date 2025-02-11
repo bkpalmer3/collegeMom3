@@ -1,4 +1,4 @@
-package com.example.test
+package com.example.accountabilityapp11
 
 import org.junit.Test
 

@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:938660894998:android:98e7cd2016dea074bcd837",
+        "mobilesdk_app_id": "1:938660894998:android:13091886591d0d22bcd837",
         "android_client_info": {
-          "package_name": "com.example.test"
+          "package_name": "com.example.accountabilityapp11"
         }
       },
       "oauth_client": [],

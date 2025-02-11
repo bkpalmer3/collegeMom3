@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "collegeMom3"
+rootProject.name = "AccountabilityApp1.1"
 include(":app")
  
